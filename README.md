@@ -20,7 +20,7 @@ Welcome to **MaazGPT**, a lightweight AI chatbot built using **Streamlit**, powe
 
 ## 📸 Demo Preview
 
-> Coming soon (screenshot_chatbot.png)
+> Coming soon (https://github.com/Maaz-Umar-00/maazgpt-streamlit/blob/main/screenshot_chatbot.png)
 
 ---
 

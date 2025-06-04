@@ -16,11 +16,7 @@ Welcome to **MaazGPT**, a lightweight AI chatbot built using **Streamlit**, powe
 - 🔐 Secure API key management via `.streamlit/secrets.toml`
 - 🌐 Deployable to Streamlit Cloud (Free Hosting!)
 
----
 
-## 📸 Demo Preview
-
-> Coming soon (https://github.com/Maaz-Umar-00/maazgpt-streamlit/blob/main/screenshot_chatbot.png)
 
 ---
 

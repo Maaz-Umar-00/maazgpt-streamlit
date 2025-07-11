@@ -23,7 +23,7 @@ if st.button("Generate"):
                     "Content-Type": "application/json"
                 },
                 json={
-                    "model": "llama-3.1-8b-instant",
+                    "model": "distil-whisper-large-v3-en",
                     "messages": [
                         {"role": "system", "content": "You are MaazGPT, created by Maaz Umar. Reply concisely."},
                         {"role": "user", "content": user_input}
